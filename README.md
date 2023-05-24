@@ -1,0 +1,2 @@
+# LinkedList
+Gyakorlás láncolt listákról
